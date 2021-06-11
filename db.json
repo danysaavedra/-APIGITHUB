@@ -1,4 +1,4 @@
-{
+let user => {
 name:"daniel",
 apellido:"saavedra",
 dni:32642537,
