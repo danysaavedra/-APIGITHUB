@@ -1,8 +1,8 @@
-let user => {
-name:"daniel",
-apellido:"saavedra",
-dni:32642537,
-cp:1755,
-cel:1527274638,
-localidad:"Rafael Castillo"
+{
+"name":"daniel",
+"apellido":"saavedra",
+"dni":32642537,
+"cp":1755,
+"cel":1527274638,
+"localidad":"Rafael Castillo"
 }
